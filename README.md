@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
@@ -84,7 +83,3 @@ and how to install it.
 
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
-=======
-# E-Kalman-Filter
-Extended Kalman Filter
->>>>>>> 2f0cefd2fbd8156ee5ebdc72b921f9eaf96c0d63
